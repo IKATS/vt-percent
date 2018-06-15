@@ -1,0 +1,7 @@
+{
+    "name": "Percentage",
+    "types": ["percentage", "number"],
+    "classRef": PercentViz,
+    "keyMap": {},
+    "desc": "Display numbers as percentage bar."
+}
